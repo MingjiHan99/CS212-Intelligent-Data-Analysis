@@ -6,7 +6,11 @@ IDA project backup
 
 ### This course includes the following topics:
 Principal Component Analysis (PCA)
+
 Document Mining
+
 Clustering, Topographic Maps
+
 Classification
+
 PageRank
